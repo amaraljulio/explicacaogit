@@ -3,7 +3,7 @@ Projeto para tentar explicar como funciona e como utilizar o git com uma didáti
 
 Após executar os passos abaixo, aparecerá em "Pull request" a solicitação de Merge para a Master e podemos ver também o recurso para "chat" e aprovação do Pull request para a Master.
 
-# passos:
+# Passos:
 
 1 - Efetuar o clone deste projeto
 
