@@ -1,4 +1,4 @@
-# explicacaogit
+# Explicaçãogit
 Projeto para tentar explicar como funciona e como utilizar o git com uma didática diferente
 
 Após executar os passos abaixo, aparecerá em "Pull request" a solicitação de Merge para a Master e podemos ver também o recurso para "chat" e aprovação do Pull request para a Master.
