@@ -25,4 +25,3 @@ Projeto para tentar explicar como funciona e como utilizar o git com uma didáti
 | Nome | Email |
 |-------|------|
 | Ricardo | ricardo_lda@hotmail.com|
-| Teste | teste@teste.com|
