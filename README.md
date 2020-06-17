@@ -9,11 +9,15 @@ Projeto para tentar explicar como funciona e como utilizar o git com uma didáti
 
 3 - Salvar
 
-4 - Efetuar o commit:
+4 - Efetuar o "staging" da alteração
+
+  ```git add README.md```
+
+5 - Efetuar o commit:
 
   ```git commit -m "nome para o commit" ```
   
-5 - Efetuar o Pull request:
+6 - Efetuar o Pull request:
 
   ```git push ```
 
@@ -21,3 +25,4 @@ Projeto para tentar explicar como funciona e como utilizar o git com uma didáti
 | Nome | Email |
 |-------|------|
 | Ricardo | ricardo_lda@hotmail.com|
+| Teste | teste@teste.com|
