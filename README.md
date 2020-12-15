@@ -35,3 +35,4 @@ Após executar os passos abaixo, aparecerá em "Pull request" a solicitação de
 | Nome | Email |
 |-------|------|
 | Ricardo | email@hotmail.com|
+| teste | teste@hotmail.com|
